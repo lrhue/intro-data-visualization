@@ -5,6 +5,7 @@ Data visualization is a fundamental skill.
 We will use [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [introduction](https://github.com/lrhue/intro-data-visualization/blob/gh-pages/IntroductionColab.ipynb)
+[bar chart](intro-data-visualization/bar-charts-python.md)
 
 ```
 import numpy as np
