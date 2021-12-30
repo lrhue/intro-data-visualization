@@ -6,6 +6,11 @@ We will use [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, f
 
 [introduction](https://github.com/lrhue/intro-data-visualization/blob/gh-pages/IntroductionColab.ipynb)
 
+```
+import numpy as np
+import pandas as pd
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
